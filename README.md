@@ -1,7 +1,6 @@
 #  基于java swing框架+mysql实现的学生社团管理系统
 ##  项目内容：
 **项目基于java swing 实现了一个社团管理系统** 
-**项目提取点：https://github.com/wrxhardworking/Student-community-management-system**
 ## 项目演示
 ###  登陆界面
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f2ee98e2673643ffb52b793c33c55cd6.png)
